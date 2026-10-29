@@ -1,0 +1,6 @@
+{
+  "name": "QR Dine OS",
+  "description": "Premium QR-based restaurant ordering, live kitchen display (KDS), and operations platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
